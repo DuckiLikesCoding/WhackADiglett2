@@ -1,0 +1,10 @@
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\bin\Debug\WhackADiglett.exe.config
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\bin\Debug\WhackADiglett.exe
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\bin\Debug\WhackADiglett.pdb
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.csproj.AssemblyReference.cache
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.Form1.resources
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.Properties.Resources.resources
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.csproj.GenerateResource.cache
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.csproj.CoreCompileInputs.cache
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.exe
+C:\Users\Ducky\source\repos\WhackADiglett\WhackADiglett\obj\Debug\WhackADiglett.pdb
